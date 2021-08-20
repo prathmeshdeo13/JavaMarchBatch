@@ -13,6 +13,10 @@ public class staticBlock {
     static {
         System.out.println("Bonjour");
     }
+
+    static {
+        System.out.println("Ciao");
+    }
 }
 
 
