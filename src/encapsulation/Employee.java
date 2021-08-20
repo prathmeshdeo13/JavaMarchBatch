@@ -2,9 +2,9 @@ package encapsulation;
 
 public class Employee {
 
-    int id;
-    String name;
-    String address;
+    private int id;
+    private String name;
+    private String address;
 
     public int getId() {
         return id;
