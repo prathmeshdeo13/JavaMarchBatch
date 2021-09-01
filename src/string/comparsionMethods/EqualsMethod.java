@@ -13,5 +13,20 @@ public class EqualsMethod {
 
         System.out.println(s4.equals(s5));
         System.out.println(s4.equalsIgnoreCase(s5));
+
+
+        //Validations
+        String name ="aditya";
+        String password = "aditya123";
+
+        if(name.equals("")){
+            System.out.println("Enter the name");
+        }else if(password.equals("")){
+            System.out.println("Enter the password");
+        }else {
+            System.out.println("valid....!");
+        }
     }
+
+
 }
