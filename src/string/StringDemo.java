@@ -18,17 +18,18 @@ public class StringDemo {
         String s3 = new String("aditi");
         String s4 = new String("aditi");
 
+
         System.out.println(s3==s4);
 
         String s5 = "kiara";
         String s6 = "kiara";
 
-        System.out.println(s5==s6);
+//        System.out.println(s5==s6);
 
         String s7 = new String("uravshi");
         String s8 = new String("uravshi");
 
-        System.out.println(s7.equals(s8));
+//        System.out.println(s7.equals(s8));
 
     }
 }
