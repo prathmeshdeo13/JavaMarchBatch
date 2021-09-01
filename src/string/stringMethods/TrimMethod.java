@@ -17,6 +17,7 @@ public class TrimMethod {
             System.out.println("valid name");
         }
 
+        // Validations
 
         if (name.trim().length()==0 || name.trim().isEmpty()){
             System.out.println("name cannot empty");
