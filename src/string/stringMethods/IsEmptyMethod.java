@@ -7,6 +7,9 @@ public class IsEmptyMethod {
 
         System.out.println(address.isEmpty());
 
+
+        // Validations
+
         if(address.isEmpty()==true){
             System.out.println("String is empty");
         }else {

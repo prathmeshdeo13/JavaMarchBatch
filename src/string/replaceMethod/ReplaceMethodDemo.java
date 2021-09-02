@@ -10,5 +10,7 @@ public class ReplaceMethodDemo {
         System.out.println(s1.replaceAll("is", "was"));
         System.out.println(s1.replaceAll("is(.)", "was"));
         System.out.println(s1.replaceAll("is(.*)","was"));
+//        System.out.println(s1.replaceAll("is(.)","was"));
+//        System.out.println(s1.replaceAll("is(.*)","was"));
     }
 }

@@ -3,7 +3,7 @@ package string.stringMethods;
 public class TrimMethod {
 
     public static void main(String[] args) {
-        String name ="akshay hiwale";
+        String name ="  akshay hiwale  ";
         String address = "buldhana";
         char[] c= {12334};
         String pass = new String(c);

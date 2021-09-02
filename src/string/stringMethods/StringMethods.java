@@ -7,6 +7,7 @@ public class StringMethods {
         String address = "pune";
 
         System.out.println(name.length());
+        System.out.println(address.length());
 
         int i= name.length();
         if(i==0){
