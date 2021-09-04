@@ -3,7 +3,7 @@ package keywords;
 public class ThisKeywordDemo {
     int i;
 
-    void setValues(int x){
+    void setValues(int i){
         this.i=i;
     }
 
