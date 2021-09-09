@@ -3,7 +3,7 @@ package exception_handling;
 public class CustomException {
     public static void main(String[] args) {
 
-        int age = 17;
+        int age = 15;
         try{
             if(age<18){
                 throw new UnderAgeException("You cannot vote as your age is not 18");
